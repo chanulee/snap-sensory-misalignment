@@ -1,0 +1,54 @@
+{
+    "1721349775404732:515870": {
+        "IResourceController": {
+            "name": "apple-peal01",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1721349781568384:517600",
+            "publicId": "1721349781830896:517671",
+            "expected_hash": "28346a7a97dbb51ecebcef96a96c38de",
+            "resources": [
+                "1721349780598475:517146",
+                "1721349780647057:517185",
+                "1721349781028209:517222",
+                "1721349781533430:517549"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "customAnimationSamplingRate": "30",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "材质",
+                        "v": "1721349781029981:517225"
+                    },
+                    {
+                        "k": "材质 2",
+                        "v": "1721349781285901:517356"
+                    }
+                ]
+            }
+        }
+    },
+    "1721349781568384:517600": {
+        "IFileManager": {
+            "path": "Files/File_1721349781568384_517600.glb"
+        }
+    },
+    "1721349781830896:517671": {
+        "IResourceController": {
+            "public": {
+                "path": "apple-peal01.glb",
+                "hash": "28346a7a97dbb51ecebcef96a96c38de"
+            }
+        }
+    }
+}

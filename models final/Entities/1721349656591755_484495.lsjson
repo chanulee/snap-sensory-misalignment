@@ -1,0 +1,22 @@
+{
+    "1721349656591755:484495": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1721349659543603:485462",
+            "resources": [
+                "1721349656593422:484497"
+            ]
+        }
+    },
+    "1721349659543603:485462": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple-core/Materials"
+            }
+        }
+    }
+}

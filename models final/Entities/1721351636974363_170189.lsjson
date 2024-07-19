@@ -1,0 +1,30 @@
+{
+    "1721351636974363:170189": {
+        "IResourceController": {
+            "name": "apple-white-wax",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1721351636974135:170156",
+            "fileId": "1721351637036838:170242",
+            "originalId": "1721353020697739:462754",
+            "expected_hash": "57902a9ab69d64f18cac04846e8888cf"
+        },
+        "IResourceManager": {
+            "uid": "1721351636974135:170156",
+            "name": "GltfImport_2",
+            "flags": 0
+        }
+    },
+    "1721351637036838:170242": {
+        "IFileManager": {
+            "path": "Files/File_1721351637036838_170242.oprfb"
+        }
+    },
+    "1721353020697739:462754": {
+        "IFileManager": {
+            "path": "Files/File_1721353020697739_462754.oprfb"
+        }
+    }
+}

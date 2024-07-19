@@ -1,0 +1,50 @@
+{
+    "1721347814807409:24072": {
+        "IResourceController": {
+            "name": "apple_flesh01",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1721347820662856:25660",
+            "publicId": "1721347820779620:25697",
+            "expected_hash": "b4e7bb96dbda2525a0e089d455e05e1d",
+            "resources": [
+                "1721347820209326:25386",
+                "1721347820236452:25408",
+                "1721347820309910:25437",
+                "1721347820633953:25620"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "customAnimationSamplingRate": "30",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "tripo_mat_d18114d0-e8f3-46bb-9fdd-1c5fb6a8d256",
+                        "v": "1721347820312453:25440"
+                    }
+                ]
+            }
+        }
+    },
+    "1721347820662856:25660": {
+        "IFileManager": {
+            "path": "Files/File_1721347820662856_25660.glb"
+        }
+    },
+    "1721347820779620:25697": {
+        "IResourceController": {
+            "public": {
+                "path": "apple_flesh01.glb",
+                "hash": "b4e7bb96dbda2525a0e089d455e05e1d"
+            }
+        }
+    }
+}

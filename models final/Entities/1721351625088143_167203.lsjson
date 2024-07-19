@@ -1,0 +1,50 @@
+{
+    "1721351625088143:167203": {
+        "IResourceController": {
+            "name": "apple-white-wax",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1721351637050226:170248",
+            "publicId": "1721351637705377:170417",
+            "expected_hash": "848225a09abcd9f5d2307b5e3b759d77",
+            "resources": [
+                "1721351635782237:169796",
+                "1721351635900782:169851",
+                "1721351636359772:169918",
+                "1721351636974363:170189"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "customAnimationSamplingRate": "30",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material_0",
+                        "v": "1721351636363202:169921"
+                    }
+                ]
+            }
+        }
+    },
+    "1721351637050226:170248": {
+        "IFileManager": {
+            "path": "Files/File_1721351637050226_170248.glb"
+        }
+    },
+    "1721351637705377:170417": {
+        "IResourceController": {
+            "public": {
+                "path": "apple-white-wax.glb",
+                "hash": "848225a09abcd9f5d2307b5e3b759d77"
+            }
+        }
+    }
+}

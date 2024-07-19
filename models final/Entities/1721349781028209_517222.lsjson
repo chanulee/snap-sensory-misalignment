@@ -1,0 +1,23 @@
+{
+    "1721349781028209:517222": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1721349781854747:517682",
+            "resources": [
+                "1721349781029974:517224",
+                "1721349781285898:517355"
+            ]
+        }
+    },
+    "1721349781854747:517682": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple-peal01/Materials"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1721353317057384:548482": {
+        "IResourceController": {
+            "name": "apple_leaf",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1721353317057284:548452",
+            "fileId": "1721353317085709:548521",
+            "originalId": "1721353638625804:626056",
+            "expected_hash": "5623f7b37172598f71efbb9462f48cc8"
+        },
+        "IResourceManager": {
+            "uid": "1721353317057284:548452",
+            "name": "GltfImport_5",
+            "flags": 0
+        }
+    },
+    "1721353317085709:548521": {
+        "IFileManager": {
+            "path": "Files/File_1721353317085709_548521.oprfb"
+        }
+    },
+    "1721353638625804:626056": {
+        "IFileManager": {
+            "path": "Files/File_1721353638625804_626056.oprfb"
+        }
+    }
+}

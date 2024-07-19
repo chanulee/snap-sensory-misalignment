@@ -1,0 +1,30 @@
+{
+    "1721348391489181:169028": {
+        "IResourceController": {
+            "name": "apple_flesh02",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1721348391489079:168992",
+            "fileId": "1721348391513823:169075",
+            "originalId": "1721348548021905:210656",
+            "expected_hash": "303ed62a55e1b44475b74ea8ef7eee68"
+        },
+        "IResourceManager": {
+            "uid": "1721348391489079:168992",
+            "name": "GltfImport_1",
+            "flags": 0
+        }
+    },
+    "1721348391513823:169075": {
+        "IFileManager": {
+            "path": "Files/File_1721348391513823_169075.oprfb"
+        }
+    },
+    "1721348548021905:210656": {
+        "IFileManager": {
+            "path": "Files/File_1721348548021905_210656.oprfb"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1721349780677193:517194": {
+        "IFileManager": {
+            "path": "Files/File_1721349780677193_517194.png"
+        }
+    },
+    "1721349780679401:517195": {
+        "IResourceController": {
+            "name": "hebinjieguo的亮版副本",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721349780679699:517196",
+            "fileId": "1721349780677193:517194",
+            "originalId": "1721349780680014:517201",
+            "publicId": "1721349781845053:517676",
+            "expected_hash": "b905f657a16bdb4c19f8a6cac7b2e311",
+            "additional": {
+                "originHash": "b905f657a16bdb4c19f8a6cac7b2e311"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721349780679699:517196",
+            "name": "Files/File_1721349780677193_517194.jpg",
+            "flags": 1
+        }
+    },
+    "1721349780679699:517196": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "4208069",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "4208069",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1721349780715475:517212"
+        }
+    },
+    "1721349780680014:517201": {
+        "IFileManager": {
+            "path": "Files/File_1721349780680014_517201.png"
+        }
+    },
+    "1721349780715475:517212": {
+        "IFileManager": {
+            "path": "Files/File_1721349780715475_517212.png"
+        }
+    },
+    "1721349781845053:517676": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple-peal01/Textures/hebinjieguo的亮版副本.png",
+                "hash": "b905f657a16bdb4c19f8a6cac7b2e311"
+            }
+        }
+    }
+}

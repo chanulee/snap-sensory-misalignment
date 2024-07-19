@@ -1,0 +1,22 @@
+{
+    "1721353970043707:685622": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1721353973627298:686456",
+            "resources": [
+                "1721353872578099:667362"
+            ]
+        }
+    },
+    "1721353973627298:686456": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple-juice 2/Textures"
+            }
+        }
+    }
+}

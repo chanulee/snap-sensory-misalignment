@@ -1,0 +1,39 @@
+{
+    "1721351341031571:92237": {
+        "IFileManager": {
+            "path": "Files/File_1721351341031571_92237"
+        }
+    },
+    "1721351341033029:92238": {
+        "IResourceController": {
+            "name": "Material_0",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721351341033032:92239",
+            "fileId": "1721351341031571:92237",
+            "originalId": "1721351341060384:92251",
+            "publicId": "1721351341536744:92538",
+            "expected_hash": "3d91458e11f481503a2f1b4a680a4e2c"
+        },
+        "IResourceManager": {
+            "uid": "1721351341033032:92239",
+            "name": "Files/File_1721351341031571_92237",
+            "flags": 1
+        }
+    },
+    "1721351341060384:92251": {
+        "IFileManager": {
+            "path": "Files/File_1721351341060384_92251.lsmat"
+        }
+    },
+    "1721351341536744:92538": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Apple-gre-wax/Materials/Material_0.lsmat",
+                "hash": "3d9cb088972e9ee1d4236f214dd99fc8"
+            }
+        }
+    }
+}

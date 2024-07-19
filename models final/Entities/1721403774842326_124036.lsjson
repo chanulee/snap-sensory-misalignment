@@ -1,0 +1,23 @@
+{
+    "1721403774842326:124036": {
+        "IResourceController": {
+            "name": "Data",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1721403774842562:124037",
+            "resources": [
+                "1721403774835445:124029",
+                "1721403774988872:124181"
+            ]
+        }
+    },
+    "1721403774842562:124037": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Data"
+            }
+        }
+    }
+}

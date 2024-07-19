@@ -1,0 +1,22 @@
+{
+    "1721350254539745:637372": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1721350255073489:637688",
+            "resources": [
+                "1721350254541426:637374"
+            ]
+        }
+    },
+    "1721350255073489:637688": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple-wax/Materials"
+            }
+        }
+    }
+}

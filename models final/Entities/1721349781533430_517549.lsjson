@@ -1,0 +1,30 @@
+{
+    "1721349781533430:517549": {
+        "IResourceController": {
+            "name": "apple-peal01",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1721349781533310:517513",
+            "fileId": "1721349781563807:517599",
+            "originalId": "1721349988562943:572328",
+            "expected_hash": "2199899759c39e9e75352ddd3caaa7df"
+        },
+        "IResourceManager": {
+            "uid": "1721349781533310:517513",
+            "name": "GltfImport_4",
+            "flags": 0
+        }
+    },
+    "1721349781563807:517599": {
+        "IFileManager": {
+            "path": "Files/File_1721349781563807_517599.oprfb"
+        }
+    },
+    "1721349988562943:572328": {
+        "IFileManager": {
+            "path": "Files/File_1721349988562943_572328.oprfb"
+        }
+    }
+}

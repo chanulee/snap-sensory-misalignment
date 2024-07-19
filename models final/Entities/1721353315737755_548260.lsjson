@@ -1,0 +1,66 @@
+{
+    "1721353315736392:548257": {
+        "IFileManager": {
+            "path": "Files/File_1721353315736392_548257.png"
+        }
+    },
+    "1721353315737755:548260": {
+        "IResourceController": {
+            "name": "DiffuseTexture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721353315739529:548261",
+            "fileId": "1721353315736392:548257",
+            "originalId": "1721353315739962:548266",
+            "publicId": "1721353317294607:548585",
+            "expected_hash": "40e4e3caa3123639366f4c5c649c155e",
+            "additional": {
+                "originHash": "40e4e3caa3123639366f4c5c649c155e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721353315739529:548261",
+            "name": "Files/File_1721353315736392_548257.jpg",
+            "flags": 1
+        }
+    },
+    "1721353315739529:548261": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "3149016",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "3149016",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1721353315766090:548274"
+        }
+    },
+    "1721353315739962:548266": {
+        "IFileManager": {
+            "path": "Files/File_1721353315739962_548266.png"
+        }
+    },
+    "1721353315766090:548274": {
+        "IFileManager": {
+            "path": "Files/File_1721353315766090_548274.png"
+        }
+    },
+    "1721353317294607:548585": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple_leaf/Textures/DiffuseTexture.png",
+                "hash": "40e4e3caa3123639366f4c5c649c155e"
+            }
+        }
+    }
+}
