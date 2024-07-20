@@ -15,6 +15,7 @@ Snap x RCA project exploring senses on AR.
 ## 4. References
 1. Interacting with objects in AR using 3D Hand Tracking in Lens Studio [Youtube](https://www.youtube.com/watch?v=AgweoeLMFEk)
 2. Snap x RCA camera kit workshop [Github Repo](https://github.com/chanulee/snap-rca-camkit-workshop)
+3. Snap Lens Developers [docs.snap.com](https://docs.snap.com/lens-studio/4.55.1/home)
 ## 5. Notes
 - Max project size 50MB
 ---
