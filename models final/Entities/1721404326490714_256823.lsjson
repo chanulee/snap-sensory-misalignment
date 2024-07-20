@@ -14,7 +14,7 @@
             "uid": "1721404326490874:256824",
             "fileId": "1721404326488777:256822",
             "publicId": "1721404326498333:256829",
-            "expected_hash": "8c65ddc3667d704801ad78a741d14349"
+            "expected_hash": "9204b29178b72b9bef37d43e77b1307a"
         },
         "IResourceManager": {
             "uid": "1721404326490874:256824",
@@ -31,7 +31,7 @@
         "IResourceController": {
             "public": {
                 "path": "ManipulateManager.js",
-                "hash": "8c65ddc3667d704801ad78a741d14349"
+                "hash": "9204b29178b72b9bef37d43e77b1307a"
             }
         }
     }
