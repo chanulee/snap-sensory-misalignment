@@ -1,0 +1,39 @@
+{
+    "1721670481369355:34854": {
+        "IFileManager": {
+            "path": "Files/File_1721670481369355_34854"
+        }
+    },
+    "1721670481370494:34855": {
+        "IResourceController": {
+            "name": "tripo_mat_d18114d0-e8f3-46bb-9fdd-1c5fb6a8d256",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721670481370497:34856",
+            "fileId": "1721670481369355:34854",
+            "originalId": "1721670481392796:34868",
+            "publicId": "1721670483271970:36332",
+            "expected_hash": "3d91458e11f481503a2f1b4a680a4e2c"
+        },
+        "IResourceManager": {
+            "uid": "1721670481370497:34856",
+            "name": "Files/File_1721670481369355_34854",
+            "flags": 1
+        }
+    },
+    "1721670481392796:34868": {
+        "IFileManager": {
+            "path": "Files/File_1721670481392796_34868.lsmat"
+        }
+    },
+    "1721670483271970:36332": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/no-Combine-Apple/Materials/tripo_mat_d18114d0-e8f3-46bb-9fdd-1c5fb6a8d256.lsmat",
+                "hash": "1041681d255ebedc8296732bb8f47e9e"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1721670415808805:14005": {
+        "IFileManager": {
+            "path": "Files/File_1721670415808805_14005"
+        }
+    },
+    "1721670415810518:14006": {
+        "IResourceController": {
+            "name": "Material_0 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721670415810522:14007",
+            "fileId": "1721670415808805:14005",
+            "originalId": "1721670415833055:14016",
+            "publicId": "1721670419627329:16344",
+            "expected_hash": "3d91458e11f481503a2f1b4a680a4e2c"
+        },
+        "IResourceManager": {
+            "uid": "1721670415810522:14007",
+            "name": "Files/File_1721670415808805_14005",
+            "flags": 1
+        }
+    },
+    "1721670415833055:14016": {
+        "IFileManager": {
+            "path": "Files/File_1721670415833055_14016.lsmat"
+        }
+    },
+    "1721670419627329:16344": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Combined-Apple/Materials/Material_0 2.lsmat",
+                "hash": "fbf88e1b87857c20b2f36e6d60f986fb"
+            }
+        }
+    }
+}

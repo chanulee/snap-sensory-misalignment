@@ -1,0 +1,22 @@
+{
+    "1721353873759730:667389": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1721777445380828:240871",
+            "resources": [
+                "1721353873775627:667391"
+            ]
+        }
+    },
+    "1721777445380828:240871": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple-juice/Materials"
+            }
+        }
+    }
+}

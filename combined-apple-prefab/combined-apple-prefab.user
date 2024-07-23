@@ -1,0 +1,534 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            []
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1721670415512459:13866"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Combined-Apple"
+                ],
+                [
+                    "Combined-Apple",
+                    "Combined-Apple"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials",
+                    "Material"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials",
+                    "Material_0"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials",
+                    "Material_0 2"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials",
+                    "Material_0 3"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials",
+                    "Material_0 4"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials",
+                    "Material_0 5"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials",
+                    "Material_0 6"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials",
+                    "Material_0 7"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials",
+                    "tripo_mat_c726a3bb-2224-4e96-bee8-47bf86540677"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials",
+                    "tripo_mat_d18114d0-e8f3-46bb-9fdd-1c5fb6a8d256"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials",
+                    "材质"
+                ],
+                [
+                    "Combined-Apple",
+                    "Materials",
+                    "材质 2"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes",
+                    "mesh"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes",
+                    "mesh 10"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes",
+                    "mesh 11"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes",
+                    "mesh 12"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes",
+                    "mesh 2"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes",
+                    "mesh 3"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes",
+                    "mesh 4"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes",
+                    "mesh 5"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes",
+                    "mesh 6"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes",
+                    "mesh 7"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes",
+                    "mesh 8"
+                ],
+                [
+                    "Combined-Apple",
+                    "Meshes",
+                    "mesh 9"
+                ],
+                [
+                    "Combined-Apple",
+                    "Textures"
+                ],
+                [
+                    "Textures"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 10"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 11"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 12"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 13"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 14"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 15"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 16"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 17"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 18"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 19"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 2"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 20"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 21"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 22"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 23"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 24"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 3"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 4"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 5"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 6"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 7"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 8"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 9"
+                ],
+                [
+                    "no-Combine-Apple"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials",
+                    "Material"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials",
+                    "Material_0"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials",
+                    "Material_0 2"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials",
+                    "Material_0 3"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials",
+                    "Material_0 4"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials",
+                    "Material_0 5"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials",
+                    "Material_0 6"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials",
+                    "Material_0 7"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials",
+                    "tripo_mat_c726a3bb-2224-4e96-bee8-47bf86540677"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials",
+                    "tripo_mat_d18114d0-e8f3-46bb-9fdd-1c5fb6a8d256"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials",
+                    "材质"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Materials",
+                    "材质 2"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes",
+                    "Mesh"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes",
+                    "Mesh 2"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes",
+                    "mesh"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes",
+                    "mesh 2"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes",
+                    "mesh 3"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes",
+                    "mesh 4"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes",
+                    "mesh 5"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes",
+                    "mesh 6"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes",
+                    "mesh 7"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes",
+                    "tripo_mesh_c726a3bb-2224-4e96-bee8-47bf86540677"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes",
+                    "tripo_mesh_d18114d0-e8f3-46bb-9fdd-1c5fb6a8d256"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Meshes",
+                    "平面"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures",
+                    "DiffuseTexture"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures",
+                    "Image"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures",
+                    "Screenshot 2024-07-02 213814"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures",
+                    "Screenshot 2024-07-02 213815"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures",
+                    "Untitled"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures",
+                    "brush1"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures",
+                    "laz"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures",
+                    "laz 2"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures",
+                    "lazhu"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures",
+                    "lazhu 2"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures",
+                    "tripo_image_d18114d0-e8f3-46bb-9fdd-1c5fb6a8d256"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "Textures",
+                    "低质量亮版"
+                ],
+                [
+                    "no-Combine-Apple",
+                    "no-Combine-Apple"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            [
+                "1721670419728126:16427",
+                "1721670483365945:36406"
+            ]
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1721670403942903:10747": "/Volumes/Extreme SSD/Combined-Apple.glb",
+            "1721670414595808:13385": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670414621517:13402": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670414646886:13422": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670414674775:13442": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670414701179:13462": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670414727308:13477": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670414753250:13494": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670414777614:13514": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670414801456:13534": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670414827626:13549": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670414853411:13566": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670414878313:13586": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670414902949:13608": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyJpg.jpg",
+            "1721670414971809:13626": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyJpg.jpg",
+            "1721670415058084:13649": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyJpg.jpg",
+            "1721670415087066:13669": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyJpg.jpg",
+            "1721670415096974:13688": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyJpg.jpg",
+            "1721670415131210:13709": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyJpg.jpg",
+            "1721670415174761:13732": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyJpg.jpg",
+            "1721670415222400:13755": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyJpg.jpg",
+            "1721670415249372:13775": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyJpg.jpg",
+            "1721670415276081:13798": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyJpg.jpg",
+            "1721670415294496:13816": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyJpg.jpg",
+            "1721670415373139:13839": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyJpg.jpg",
+            "1721670468562250:30917": "/Volumes/Extreme SSD/no-Combine-Apple.glb",
+            "1721670478551940:33406": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670478579334:33423": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670478608219:33443": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670478635385:33463": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670478660594:33483": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670478687339:33498": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670478714201:33515": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670478739311:33535": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670478763821:33555": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670478789966:33575": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670478815820:33590": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh",
+            "1721670478840585:33607": "/Users/mac/Library/Caches/Snap/Lens Studio/temp/StudioKuVOneJLiemE//system//emergencyFiles/emergencyMesh.mesh"
+        }
+    },
+    "InspectorController": {
+        "selection": {
+            "objects": [
+                "1721670483365945:36406"
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}

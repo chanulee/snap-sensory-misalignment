@@ -1,0 +1,93 @@
+{
+    "1721670468562250:30917": {
+        "IResourceController": {
+            "name": "no-Combine-Apple",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1721670482194007:35884",
+            "publicId": "1721670483171546:36166",
+            "expected_hash": "43be3c574bce8daa2bb42313774ad359",
+            "resources": [
+                "1721670478550653:33404",
+                "1721670478863959:33627",
+                "1721670479177388:33714",
+                "1721670482135406:35599"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1721670480880967:34602"
+                    },
+                    {
+                        "k": "Material_0",
+                        "v": "1721670479178840:33718"
+                    },
+                    {
+                        "k": "Material_0 2",
+                        "v": "1721670479424556:33848"
+                    },
+                    {
+                        "k": "Material_0 3",
+                        "v": "1721670479670656:33974"
+                    },
+                    {
+                        "k": "Material_0 4",
+                        "v": "1721670479913236:34102"
+                    },
+                    {
+                        "k": "Material_0 5",
+                        "v": "1721670480154970:34225"
+                    },
+                    {
+                        "k": "Material_0 6",
+                        "v": "1721670481616722:34979"
+                    },
+                    {
+                        "k": "Material_0 7",
+                        "v": "1721670481862486:35110"
+                    },
+                    {
+                        "k": "tripo_mat_c726a3bb-2224-4e96-bee8-47bf86540677",
+                        "v": "1721670481124997:34728"
+                    },
+                    {
+                        "k": "tripo_mat_d18114d0-e8f3-46bb-9fdd-1c5fb6a8d256",
+                        "v": "1721670481370497:34856"
+                    },
+                    {
+                        "k": "材质",
+                        "v": "1721670480396175:34348"
+                    },
+                    {
+                        "k": "材质 2",
+                        "v": "1721670480639587:34479"
+                    }
+                ]
+            }
+        }
+    },
+    "1721670482194007:35884": {
+        "IFileManager": {
+            "path": "Files/File_1721670482194007_35884.glb"
+        }
+    },
+    "1721670483171546:36166": {
+        "IResourceController": {
+            "public": {
+                "path": "no-Combine-Apple.glb",
+                "hash": "43be3c574bce8daa2bb42313774ad359"
+            }
+        }
+    }
+}

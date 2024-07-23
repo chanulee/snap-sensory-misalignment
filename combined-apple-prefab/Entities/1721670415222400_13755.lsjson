@@ -1,0 +1,66 @@
+{
+    "1721670415221129:13754": {
+        "IFileManager": {
+            "path": "Files/File_1721670415221129_13754.png"
+        }
+    },
+    "1721670415222400:13755": {
+        "IResourceController": {
+            "name": "brush1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721670415222596:13756",
+            "fileId": "1721670415221129:13754",
+            "originalId": "1721670415222864:13761",
+            "publicId": "1721670483245015:36313",
+            "expected_hash": "5a95323d64c12c7d961ed571652cda1e",
+            "additional": {
+                "originHash": "5a95323d64c12c7d961ed571652cda1e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721670415222596:13756",
+            "name": "Files/File_1721670415221129_13754.jpg",
+            "flags": 1
+        }
+    },
+    "1721670415222596:13756": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "5578424",
+                "compressedSize": "258149",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "258149",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1721670415231377:13769"
+        }
+    },
+    "1721670415222864:13761": {
+        "IFileManager": {
+            "path": "Files/File_1721670415222864_13761.png"
+        }
+    },
+    "1721670415231377:13769": {
+        "IFileManager": {
+            "path": "Files/File_1721670415231377_13769.png"
+        }
+    },
+    "1721670483245015:36313": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/no-Combine-Apple/Textures/brush1.png",
+                "hash": "5a95323d64c12c7d961ed571652cda1e"
+            }
+        }
+    }
+}

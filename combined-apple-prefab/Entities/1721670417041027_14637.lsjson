@@ -1,0 +1,39 @@
+{
+    "1721670417039901:14636": {
+        "IFileManager": {
+            "path": "Files/File_1721670417039901_14636"
+        }
+    },
+    "1721670417041027:14637": {
+        "IResourceController": {
+            "name": "材质 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721670417041030:14638",
+            "fileId": "1721670417039901:14636",
+            "originalId": "1721670417062308:14647",
+            "publicId": "1721670419633129:16349",
+            "expected_hash": "3d91458e11f481503a2f1b4a680a4e2c"
+        },
+        "IResourceManager": {
+            "uid": "1721670417041030:14638",
+            "name": "Files/File_1721670417039901_14636",
+            "flags": 1
+        }
+    },
+    "1721670417062308:14647": {
+        "IFileManager": {
+            "path": "Files/File_1721670417062308_14647.lsmat"
+        }
+    },
+    "1721670419633129:16349": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Combined-Apple/Materials/材质 2.lsmat",
+                "hash": "aa378bc0e0fabce584bc41a6f15cbde2"
+            }
+        }
+    }
+}

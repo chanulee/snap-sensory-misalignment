@@ -1,0 +1,66 @@
+{
+    "1721670415095640:13685": {
+        "IFileManager": {
+            "path": "Files/File_1721670415095640_13685.png"
+        }
+    },
+    "1721670415096974:13688": {
+        "IResourceController": {
+            "name": "lazhu 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721670415097137:13689",
+            "fileId": "1721670415095640:13685",
+            "originalId": "1721670415097446:13694",
+            "publicId": "1721670483238036:36305",
+            "expected_hash": "1583f6bdee2ab4c7d2a677f5dede6960",
+            "additional": {
+                "originHash": "1583f6bdee2ab4c7d2a677f5dede6960"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721670415097137:13689",
+            "name": "Files/File_1721670415095640_13685.jpg",
+            "flags": 1
+        }
+    },
+    "1721670415097137:13689": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "22313697",
+                "compressedSize": "415478",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "415478",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1721670415106137:13700"
+        }
+    },
+    "1721670415097446:13694": {
+        "IFileManager": {
+            "path": "Files/File_1721670415097446_13694.png"
+        }
+    },
+    "1721670415106137:13700": {
+        "IFileManager": {
+            "path": "Files/File_1721670415106137_13700.png"
+        }
+    },
+    "1721670483238036:36305": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/no-Combine-Apple/Textures/lazhu 2.png",
+                "hash": "1583f6bdee2ab4c7d2a677f5dede6960"
+            }
+        }
+    }
+}

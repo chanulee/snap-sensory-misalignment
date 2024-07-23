@@ -1,0 +1,25 @@
+{
+    "1721776641912707:83531": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1721776641912833:83532",
+            "resources": [
+                "1721776641806987:83515",
+                "1721776642283050:83727",
+                "1721776642845611:83828",
+                "1721776645695394:84632"
+            ]
+        }
+    },
+    "1721776641912833:83532": {
+        "IResourceController": {
+            "public": {
+                "path": "Combined-Apple/Materials"
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "1721670414752029:13493": {
+        "IFileManager": {
+            "path": "Files/File_1721670414752029_13493.mesh"
+        }
+    },
+    "1721670414753250:13494": {
+        "IResourceController": {
+            "name": "mesh 7",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1721670414772944:13504",
+            "fileId": "1721670414752029:13493",
+            "expected_hash": "c12796d58284f879a8f714b6332e7ace",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721670414772944:13504",
+            "name": "Files/File_1721670414752029_13493.mesh",
+            "flags": 1
+        }
+    },
+    "1721670414772944:13504": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "81272",
+                "compressedSize": "58465",
+                "extension": "mesh",
+                "originalRAM": "81272",
+                "originalSize": "58465",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1721670419028138:16034"
+        }
+    },
+    "1721670419028138:16034": {
+        "IFileManager": {
+            "path": "Files/File_1721670419028138_16034.mesh"
+        }
+    }
+}

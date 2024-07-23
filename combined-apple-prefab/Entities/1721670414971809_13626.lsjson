@@ -1,0 +1,66 @@
+{
+    "1721670414970028:13625": {
+        "IFileManager": {
+            "path": "Files/File_1721670414970028_13625.png"
+        }
+    },
+    "1721670414971809:13626": {
+        "IResourceController": {
+            "name": "Screenshot 2024-07-02 213814",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721670414972087:13627",
+            "fileId": "1721670414970028:13625",
+            "originalId": "1721670414972604:13632",
+            "publicId": "1721670483249619:36316",
+            "expected_hash": "2a9a6e72948863535ab5c9d18baa11b3",
+            "additional": {
+                "originHash": "2a9a6e72948863535ab5c9d18baa11b3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721670414972087:13627",
+            "name": "Files/File_1721670414970028_13625.jpg",
+            "flags": 1
+        }
+    },
+    "1721670414972087:13627": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "12605931",
+                "compressedSize": "1604766",
+                "extension": "png",
+                "originalRAM": "9478144",
+                "originalSize": "1604766",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1721670414991819:13640"
+        }
+    },
+    "1721670414972604:13632": {
+        "IFileManager": {
+            "path": "Files/File_1721670414972604_13632.png"
+        }
+    },
+    "1721670414991819:13640": {
+        "IFileManager": {
+            "path": "Files/File_1721670414991819_13640.png"
+        }
+    },
+    "1721670483249619:36316": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/no-Combine-Apple/Textures/Screenshot 2024-07-02 213814.png",
+                "hash": "2a9a6e72948863535ab5c9d18baa11b3"
+            }
+        }
+    }
+}

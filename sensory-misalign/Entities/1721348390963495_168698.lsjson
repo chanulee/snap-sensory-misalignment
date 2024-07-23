@@ -1,0 +1,23 @@
+{
+    "1721348390963495:168698": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1721777451317234:248947",
+            "resources": [
+                "1721348390965984:168700",
+                "1721348391234240:168836"
+            ]
+        }
+    },
+    "1721777451317234:248947": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple_flesh02/Materials"
+            }
+        }
+    }
+}

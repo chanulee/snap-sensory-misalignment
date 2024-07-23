@@ -1,0 +1,22 @@
+{
+    "1721353315651715:548239": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1721777445695019:241924",
+            "resources": [
+                "1721353315737755:548260"
+            ]
+        }
+    },
+    "1721777445695019:241924": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple_leaf/Textures"
+            }
+        }
+    }
+}

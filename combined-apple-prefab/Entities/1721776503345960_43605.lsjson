@@ -1,0 +1,39 @@
+{
+    "1721776503345960:43605": {
+        "IResourceController": {
+            "name": "Combined-Apple 2",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721776503345330:43470",
+            "fileId": "1721776503390225:43799",
+            "originalId": "1721776552816383:57076",
+            "publicId": "1721776503391681:43803",
+            "expected_hash": "37c76ca40fa1623833f88bb0eafabe68"
+        },
+        "IResourceManager": {
+            "uid": "1721776503345330:43470",
+            "name": "Combined-Apple",
+            "flags": 0
+        }
+    },
+    "1721776503390225:43799": {
+        "IFileManager": {
+            "path": "Files/File_1721776503390225_43799.oprfb"
+        }
+    },
+    "1721776503391681:43803": {
+        "IResourceController": {
+            "public": {
+                "path": "Combined-Apple 2.oprfb",
+                "hash": "826d78a4e04d15d5be2368ca41c468bb"
+            }
+        }
+    },
+    "1721776552816383:57076": {
+        "IFileManager": {
+            "path": "Files/File_1721776552816383_57076.oprfb"
+        }
+    }
+}

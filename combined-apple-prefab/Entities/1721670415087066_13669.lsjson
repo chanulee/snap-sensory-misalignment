@@ -1,0 +1,42 @@
+{
+    "1721670415086021:13668": {
+        "IFileManager": {
+            "path": "Files/File_1721670415086021_13668.png"
+        }
+    },
+    "1721670415087066:13669": {
+        "IResourceController": {
+            "name": "Image",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721670415087313:13670",
+            "fileId": "1721670415086021:13668",
+            "originalId": "1721670415087567:13675",
+            "publicId": "1721670483231734:36299",
+            "expected_hash": "4270ff929f52f3dcdfd307293d26b39e",
+            "additional": {
+                "originHash": "4270ff929f52f3dcdfd307293d26b39e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721670415087313:13670",
+            "name": "Files/File_1721670415086021_13668.jpg",
+            "flags": 1
+        }
+    },
+    "1721670415087567:13675": {
+        "IFileManager": {
+            "path": "Files/File_1721670415087567_13675.png"
+        }
+    },
+    "1721670483231734:36299": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/no-Combine-Apple/Textures/Image.png",
+                "hash": "4270ff929f52f3dcdfd307293d26b39e"
+            }
+        }
+    }
+}

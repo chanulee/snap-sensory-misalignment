@@ -1,0 +1,49 @@
+{
+    "1721352466179997:342706": {
+        "IResourceController": {
+            "name": "apple-yew-wax",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1721352470334274:343810",
+            "publicId": "1721777445888346:242023",
+            "expected_hash": "a93f8115280b67f6ec393cf4a06cc798",
+            "resources": [
+                "1721352468901925:343342",
+                "1721352469041694:343405",
+                "1721352469550153:343467",
+                "1721352470254887:343751"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material_0",
+                        "v": "1721352469555169:343470"
+                    }
+                ]
+            }
+        }
+    },
+    "1721352470334274:343810": {
+        "IFileManager": {
+            "path": "Files/File_1721352470334274_343810.glb"
+        }
+    },
+    "1721777445888346:242023": {
+        "IResourceController": {
+            "public": {
+                "path": "apple-yew-wax.glb",
+                "hash": "a93f8115280b67f6ec393cf4a06cc798"
+            }
+        }
+    }
+}

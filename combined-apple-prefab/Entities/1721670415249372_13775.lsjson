@@ -1,0 +1,66 @@
+{
+    "1721670415248309:13774": {
+        "IFileManager": {
+            "path": "Files/File_1721670415248309_13774.jpeg"
+        }
+    },
+    "1721670415249372:13775": {
+        "IResourceController": {
+            "name": "tripo_image_d18114d0-e8f3-46bb-9fdd-1c5fb6a8d256",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721670415249639:13776",
+            "fileId": "1721670415248309:13774",
+            "originalId": "1721670415249884:13781",
+            "publicId": "1721670483246720:36314",
+            "expected_hash": "edabfb1243cedc74789c6fd2c1d54ed2",
+            "additional": {
+                "originHash": "edabfb1243cedc74789c6fd2c1d54ed2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721670415249639:13776",
+            "name": "Files/File_1721670415248309_13774.jpg",
+            "flags": 1
+        }
+    },
+    "1721670415249639:13776": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "22313697",
+                "compressedSize": "267077",
+                "extension": "jpeg",
+                "originalRAM": "16777216",
+                "originalSize": "267077",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1721670415257119:13790"
+        }
+    },
+    "1721670415249884:13781": {
+        "IFileManager": {
+            "path": "Files/File_1721670415249884_13781.jpeg"
+        }
+    },
+    "1721670415257119:13790": {
+        "IFileManager": {
+            "path": "Files/File_1721670415257119_13790.jpeg"
+        }
+    },
+    "1721670483246720:36314": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/no-Combine-Apple/Textures/tripo_image_d18114d0-e8f3-46bb-9fdd-1c5fb6a8d256.jpeg",
+                "hash": "edabfb1243cedc74789c6fd2c1d54ed2"
+            }
+        }
+    }
+}

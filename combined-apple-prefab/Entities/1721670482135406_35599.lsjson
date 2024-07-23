@@ -1,0 +1,30 @@
+{
+    "1721670482135406:35599": {
+        "IResourceController": {
+            "name": "no-Combine-Apple",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1721670482135045:35400",
+            "fileId": "1721670482176033:35875",
+            "originalId": "1721670832038812:126909",
+            "expected_hash": "ad87b9ca343e55cd9339c541613cfa57"
+        },
+        "IResourceManager": {
+            "uid": "1721670482135045:35400",
+            "name": "GltfImport_1",
+            "flags": 0
+        }
+    },
+    "1721670482176033:35875": {
+        "IFileManager": {
+            "path": "Files/File_1721670482176033_35875.oprfb"
+        }
+    },
+    "1721670832038812:126909": {
+        "IFileManager": {
+            "path": "Files/File_1721670832038812_126909.oprfb"
+        }
+    }
+}

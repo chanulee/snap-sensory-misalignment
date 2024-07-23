@@ -1,0 +1,66 @@
+{
+    "1721670415274982:13797": {
+        "IFileManager": {
+            "path": "Files/File_1721670415274982_13797.png"
+        }
+    },
+    "1721670415276081:13798": {
+        "IResourceController": {
+            "name": "laz 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721670415276253:13799",
+            "fileId": "1721670415274982:13797",
+            "originalId": "1721670415276515:13804",
+            "publicId": "1721670483232491:36300",
+            "expected_hash": "9ac86c1bc485c915d5a0cd7161dcb4da",
+            "additional": {
+                "originHash": "9ac86c1bc485c915d5a0cd7161dcb4da"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721670415276253:13799",
+            "name": "Files/File_1721670415274982_13797.jpg",
+            "flags": 1
+        }
+    },
+    "1721670415276253:13799": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "22313697",
+                "compressedSize": "100917",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "100917",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1721670415282389:13810"
+        }
+    },
+    "1721670415276515:13804": {
+        "IFileManager": {
+            "path": "Files/File_1721670415276515_13804.png"
+        }
+    },
+    "1721670415282389:13810": {
+        "IFileManager": {
+            "path": "Files/File_1721670415282389_13810.png"
+        }
+    },
+    "1721670483232491:36300": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/no-Combine-Apple/Textures/laz 2.png",
+                "hash": "9ac86c1bc485c915d5a0cd7161dcb4da"
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1721353956498533:682963": {
+        "IResourceController": {
+            "name": "apple-juice 2",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1721353972042703:686154",
+            "publicId": "1721777436429796:238541",
+            "expected_hash": "a208094b721b21d4d92041ecca132c57",
+            "resources": [
+                "1721353969907461:685577",
+                "1721353970043707:685622",
+                "1721353970576704:685738",
+                "1721353971888392:686087"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "customAnimationSamplingRate": "30",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material_0",
+                        "v": "1721353970581945:685741"
+                    }
+                ]
+            }
+        }
+    },
+    "1721353972042703:686154": {
+        "IFileManager": {
+            "path": "Files/File_1721353972042703_686154.glb"
+        }
+    },
+    "1721777436429796:238541": {
+        "IResourceController": {
+            "public": {
+                "path": "apple-juice 2.glb",
+                "hash": "a208094b721b21d4d92041ecca132c57"
+            }
+        }
+    }
+}

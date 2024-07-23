@@ -1,0 +1,22 @@
+{
+    "1721351340819984:92175": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1721777446529662:243272",
+            "resources": [
+                "1721351340841890:92182"
+            ]
+        }
+    },
+    "1721777446529662:243272": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Apple-gre-wax/Textures"
+            }
+        }
+    }
+}
