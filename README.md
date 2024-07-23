@@ -1,7 +1,7 @@
-# cote
+# Sensory Misalignment
 Snap x RCA project exploring senses on AR.
 ## 1. File Directory
-- sensory-misalign: Final result of the Snap x RCA project
+- **sensory-misalign: Final result of the Snap x RCA project**
 - combined-apple-prefab: Final 3D model of the apple: both combined and not
 - ChemTutorPrototype: tutorial by Laura Chambers (AR Engineer at Snap)
 ## 2. Software
