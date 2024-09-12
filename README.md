@@ -1,5 +1,6 @@
 # Sensory Misalignment
 Snap x RCA project exploring senses on AR.
+More information here in the [snap rca workshop repo](https://github.com/chanulee/snap-rca-camkit-workshop)
 ## 1. File Directory
 - **sensory-misalign-publish: Final published work** (Lighter version)
 - sensory-misalign: Final result of the Snap x RCA project
