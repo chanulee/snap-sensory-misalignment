@@ -1,0 +1,79 @@
+{
+    "1721776644454196:84265": {
+        "IFileManager": {
+            "path": "Files/File_1721776644454196_84265.pvr"
+        }
+    },
+    "1721776644455062:84266": {
+        "IResourceController": {
+            "name": "低质量亮版",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721776644455472:84267",
+            "fileId": "1721776644454196:84265",
+            "originalId": "1721776644455751:84272",
+            "publicId": "1721776644685603:84285",
+            "expected_hash": "029a442b1488bbc2217c3b94f92c1b45",
+            "additional": {
+                "originHash": "5d35c74273608fb8ad13b4357fc50cc7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721776644455472:84267",
+            "name": "Files/File_1721776644454196_84265.jpg",
+            "flags": 1
+        }
+    },
+    "1721776644455472:84267": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "5d35c74273608fb8ad13b4357fc50cc7"
+                    },
+                    "v": "1721776649032664:85514"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "204800",
+                "compressedSize": "150557",
+                "extension": "png",
+                "originalRAM": "1638400",
+                "originalSize": "593341",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1721776644463794:84282"
+        }
+    },
+    "1721776644455751:84272": {
+        "IFileManager": {
+            "path": "Files/File_1721776644455751_84272.png"
+        }
+    },
+    "1721776644463794:84282": {
+        "IFileManager": {
+            "path": "Files/File_1721776644463794_84282.png"
+        }
+    },
+    "1721776644685603:84285": {
+        "IResourceController": {
+            "public": {
+                "path": "no-Combine-Apple/Textures/低质量亮版.png",
+                "hash": "5d35c74273608fb8ad13b4357fc50cc7"
+            }
+        }
+    },
+    "1721776649032664:85514": {
+        "IFileManager": {
+            "path": "Files/File_1721776649032664_85514.pvr"
+        }
+    }
+}

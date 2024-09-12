@@ -1,0 +1,66 @@
+{
+    "1721348580433777:218716": {
+        "IFileManager": {
+            "path": "Files/File_1721348580433777_218716.png"
+        }
+    },
+    "1721348580435521:218717": {
+        "IResourceController": {
+            "name": "Untitled",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721348580435845:218718",
+            "fileId": "1721348580433777:218716",
+            "originalId": "1721348580436115:218723",
+            "publicId": "1721777450338515:247567",
+            "expected_hash": "d7a9aeacdde1b649965d963ff72036a5",
+            "additional": {
+                "originHash": "d7a9aeacdde1b649965d963ff72036a5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721348580435845:218718",
+            "name": "Files/File_1721348580433777_218716.jpg",
+            "flags": 1
+        }
+    },
+    "1721348580435845:218718": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "676051",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "676051",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1721348580446194:218732"
+        }
+    },
+    "1721348580436115:218723": {
+        "IFileManager": {
+            "path": "Files/File_1721348580436115_218723.png"
+        }
+    },
+    "1721348580446194:218732": {
+        "IFileManager": {
+            "path": "Files/File_1721348580446194_218732.png"
+        }
+    },
+    "1721777450338515:247567": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple-flesh03/Textures/Untitled.png",
+                "hash": "d7a9aeacdde1b649965d963ff72036a5"
+            }
+        }
+    }
+}

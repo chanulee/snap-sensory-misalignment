@@ -1,0 +1,39 @@
+{
+    "1721403774725456:123992": {
+        "IFileManager": {
+            "path": "Files/File_1721403774725456_123992"
+        }
+    },
+    "1721403774726275:123993": {
+        "IResourceController": {
+            "name": "Occluder",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721403774726279:123994",
+            "fileId": "1721403774725456:123992",
+            "originalId": "1721403774746289:124000",
+            "publicId": "1721403774789664:124007",
+            "expected_hash": "da28f054633aa92e94fc6f4148d2c538"
+        },
+        "IResourceManager": {
+            "uid": "1721403774726279:123994",
+            "name": "Files/File_1721403774725456_123992",
+            "flags": 1
+        }
+    },
+    "1721403774746289:124000": {
+        "IFileManager": {
+            "path": "Files/File_1721403774746289_124000.lsmat"
+        }
+    },
+    "1721403774789664:124007": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Materials/Occluder.lsmat",
+                "hash": "aeec727475d368ab587390c89a1ebf48"
+            }
+        }
+    }
+}

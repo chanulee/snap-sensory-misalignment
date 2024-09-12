@@ -1,0 +1,30 @@
+{
+    "1721353875244807:667749": {
+        "IResourceController": {
+            "name": "apple-juice",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1721353875244568:667726",
+            "fileId": "1721353875403673:667804",
+            "originalId": "1721354525855470:773704",
+            "expected_hash": "ce8ed97fb8be3929f3a428f0d0204573"
+        },
+        "IResourceManager": {
+            "uid": "1721353875244568:667726",
+            "name": "GltfImport_6",
+            "flags": 0
+        }
+    },
+    "1721353875403673:667804": {
+        "IFileManager": {
+            "path": "Files/File_1721353875403673_667804.oprfb"
+        }
+    },
+    "1721354525855470:773704": {
+        "IFileManager": {
+            "path": "Files/File_1721354525855470_773704.oprfb"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1721351341016334:92215": {
+        "IFileManager": {
+            "path": "Files/File_1721351341016334_92215.png"
+        }
+    },
+    "1721351341017983:92216": {
+        "IResourceController": {
+            "name": "Image",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721351341018223:92217",
+            "fileId": "1721351341016334:92215",
+            "originalId": "1721351341018717:92222",
+            "publicId": "1721777445898139:242028",
+            "expected_hash": "4270ff929f52f3dcdfd307293d26b39e",
+            "additional": {
+                "originHash": "4270ff929f52f3dcdfd307293d26b39e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721351341018223:92217",
+            "name": "Files/File_1721351341016334_92215.jpg",
+            "flags": 1
+        }
+    },
+    "1721351341018717:92222": {
+        "IFileManager": {
+            "path": "Files/File_1721351341018717_92222.png"
+        }
+    },
+    "1721777445898139:242028": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple-yew-wax/Textures/Image.png",
+                "hash": "4270ff929f52f3dcdfd307293d26b39e"
+            }
+        }
+    }
+}

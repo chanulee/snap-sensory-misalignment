@@ -1,0 +1,66 @@
+{
+    "1721350254452661:637344": {
+        "IFileManager": {
+            "path": "Files/File_1721350254452661_637344.png"
+        }
+    },
+    "1721350254453965:637345": {
+        "IResourceController": {
+            "name": "Screenshot 2024-07-02 213814",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721350254454223:637346",
+            "fileId": "1721350254452661:637344",
+            "originalId": "1721350254454769:637351",
+            "publicId": "1721777446247855:243161",
+            "expected_hash": "2a9a6e72948863535ab5c9d18baa11b3",
+            "additional": {
+                "originHash": "2a9a6e72948863535ab5c9d18baa11b3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721350254454223:637346",
+            "name": "Files/File_1721350254452661_637344.jpg",
+            "flags": 1
+        }
+    },
+    "1721350254454223:637346": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "9478144",
+                "compressedSize": "1604766",
+                "extension": "png",
+                "originalRAM": "9478144",
+                "originalSize": "1604766",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1721350254471749:637360"
+        }
+    },
+    "1721350254454769:637351": {
+        "IFileManager": {
+            "path": "Files/File_1721350254454769_637351.png"
+        }
+    },
+    "1721350254471749:637360": {
+        "IFileManager": {
+            "path": "Files/File_1721350254471749_637360.png"
+        }
+    },
+    "1721777446247855:243161": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple-white-wax/Textures/Screenshot 2024-07-02 213814.png",
+                "hash": "2a9a6e72948863535ab5c9d18baa11b3"
+            }
+        }
+    }
+}

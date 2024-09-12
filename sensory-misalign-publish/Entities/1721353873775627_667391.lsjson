@@ -1,0 +1,39 @@
+{
+    "1721353873770571:667390": {
+        "IFileManager": {
+            "path": "Files/File_1721353873770571_667390"
+        }
+    },
+    "1721353873775627:667391": {
+        "IResourceController": {
+            "name": "Material_0",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721353873775636:667392",
+            "fileId": "1721353873770571:667390",
+            "originalId": "1721353873914779:667420",
+            "publicId": "1721777445381237:240872",
+            "expected_hash": "3d91458e11f481503a2f1b4a680a4e2c"
+        },
+        "IResourceManager": {
+            "uid": "1721353873775636:667392",
+            "name": "Files/File_1721353873770571_667390",
+            "flags": 1
+        }
+    },
+    "1721353873914779:667420": {
+        "IFileManager": {
+            "path": "Files/File_1721353873914779_667420.lsmat"
+        }
+    },
+    "1721777445381237:240872": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple-juice/Materials/Material_0.lsmat",
+                "hash": "ee3ab3535e8c12798afea44a6a1b4b12"
+            }
+        }
+    }
+}

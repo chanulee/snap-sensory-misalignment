@@ -258,7 +258,7 @@
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
-            "input_stream_type": "WebCam",
+            "input_stream_type": "Image",
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
                 "back_preview_is_favorite": "false",

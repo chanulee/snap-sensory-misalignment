@@ -1,0 +1,30 @@
+{
+    "1721349656936826:484685": {
+        "IResourceController": {
+            "name": "apple-core",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1721349656936744:484663",
+            "fileId": "1721349656963423:484713",
+            "originalId": "1721349988527324:572295",
+            "expected_hash": "64d44442699162357d1965d6a6fc7c2d"
+        },
+        "IResourceManager": {
+            "uid": "1721349656936744:484663",
+            "name": "GltfImport_3",
+            "flags": 0
+        }
+    },
+    "1721349656963423:484713": {
+        "IFileManager": {
+            "path": "Files/File_1721349656963423_484713.oprfb"
+        }
+    },
+    "1721349988527324:572295": {
+        "IFileManager": {
+            "path": "Files/File_1721349988527324_572295.oprfb"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1721403774993209:124185": {
+        "IFileManager": {
+            "path": "Files/File_1721403774993209_124185.js"
+        }
+    },
+    "1721403774993939:124186": {
+        "IResourceController": {
+            "name": "HandJoints",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721403774993964:124187",
+            "fileId": "1721403774993209:124185",
+            "publicId": "1721403774996939:124197",
+            "expected_hash": "8ef1c99701ddef8c1ef1cafa47659665"
+        },
+        "IResourceManager": {
+            "uid": "1721403774993964:124187",
+            "name": "Files/File_1721403774993209_124185.js",
+            "flags": 1
+        }
+    },
+    "1721403774993964:124187": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1721403774996939:124197": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Scripts/HandJoints.js",
+                "hash": "8ef1c99701ddef8c1ef1cafa47659665"
+            }
+        }
+    }
+}

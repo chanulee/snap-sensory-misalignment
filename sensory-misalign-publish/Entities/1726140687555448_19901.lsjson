@@ -1,0 +1,39 @@
+{
+    "1726140687555448:19901": {
+        "IResourceController": {
+            "name": "meshmixer-apple 2",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1726140687555416:19898",
+            "fileId": "1726140687576000:19910",
+            "originalId": "1726140783108158:49933",
+            "publicId": "1726140689704467:20693",
+            "expected_hash": "e192cc44b03380200ace4a7821564e72"
+        },
+        "IResourceManager": {
+            "uid": "1726140687555416:19898",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1726140687576000:19910": {
+        "IFileManager": {
+            "path": "Files/File_1726140687576000_19910.oprfb"
+        }
+    },
+    "1726140689704467:20693": {
+        "IResourceController": {
+            "public": {
+                "path": "meshmixer-apple 2.oprfb",
+                "hash": "232046416060a8cc37d2bbd74c394096"
+            }
+        }
+    },
+    "1726140783108158:49933": {
+        "IFileManager": {
+            "path": "Files/File_1726140783108158_49933.oprfb"
+        }
+    }
+}

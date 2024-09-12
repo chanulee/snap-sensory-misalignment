@@ -1,0 +1,115 @@
+{
+    "1726140688793042:20285": {
+        "IFileManager": {
+            "path": "Files/File_1726140688793042_20285.mesh"
+        }
+    },
+    "1726140688794086:20286": {
+        "IResourceController": {
+            "name": "mmGroup8",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1726140688812415:20288",
+            "fileId": "1726140688793042:20285",
+            "publicId": "1726140688818448:20306",
+            "expected_hash": "ce8945af77a2e45ecc84d79ffd339ace",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1726140688812415:20288",
+            "name": "Files/File_1726140688793042_20285.mesh",
+            "flags": 1
+        }
+    },
+    "1726140688812415:20288": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "6144",
+                "compressedSize": "3878",
+                "extension": "mesh",
+                "originalRAM": "6144",
+                "originalSize": "3878",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1726140688816472:20305"
+        }
+    },
+    "1726140688816472:20305": {
+        "IFileManager": {
+            "path": "Files/File_1726140688816472_20305.mesh"
+        }
+    },
+    "1726140688818448:20306": {
+        "IResourceController": {
+            "public": {
+                "path": "meshmixer-apple/Meshes/mmGroup8.mesh",
+                "hash": "ce8945af77a2e45ecc84d79ffd339ace"
+            }
+        }
+    }
+}

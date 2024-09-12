@@ -1,0 +1,49 @@
+{
+    "1721349647682085:482306": {
+        "IResourceController": {
+            "name": "apple-core",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1721349656967340:484714",
+            "publicId": "1721777449419696:246051",
+            "expected_hash": "a9ebac9973eb0409d5b2a2bd8ee39161",
+            "resources": [
+                "1721349656450470:484442",
+                "1721349656591755:484495",
+                "1721349656936826:484685"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "customAnimationSamplingRate": "30",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material_0",
+                        "v": "1721349656593425:484498"
+                    }
+                ]
+            }
+        }
+    },
+    "1721349656967340:484714": {
+        "IFileManager": {
+            "path": "Files/File_1721349656967340_484714.glb"
+        }
+    },
+    "1721777449419696:246051": {
+        "IResourceController": {
+            "public": {
+                "path": "apple-core.glb",
+                "hash": "a9ebac9973eb0409d5b2a2bd8ee39161"
+            }
+        }
+    }
+}

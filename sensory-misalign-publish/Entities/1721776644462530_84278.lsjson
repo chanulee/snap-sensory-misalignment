@@ -1,0 +1,22 @@
+{
+    "1721776644462530:84278": {
+        "IResourceController": {
+            "name": "no-Combine-Apple",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1721776644462720:84279",
+            "resources": [
+                "1721776644463237:84280"
+            ]
+        }
+    },
+    "1721776644462720:84279": {
+        "IResourceController": {
+            "public": {
+                "path": "no-Combine-Apple"
+            }
+        }
+    }
+}

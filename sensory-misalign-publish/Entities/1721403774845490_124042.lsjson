@@ -1,0 +1,115 @@
+{
+    "1721403774844503:124041": {
+        "IFileManager": {
+            "path": "Files/File_1721403774844503_124041.mesh"
+        }
+    },
+    "1721403774845490:124042": {
+        "IResourceController": {
+            "name": "Unit Sphere",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1721403774865046:124044",
+            "fileId": "1721403774844503:124041",
+            "publicId": "1721403774873437:124058",
+            "expected_hash": "b9e3f7898115085ebbb39400f580dbea",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1721403774865046:124044",
+            "name": "Files/File_1721403774844503_124041.mesh",
+            "flags": 1
+        }
+    },
+    "1721403774865046:124044": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "32592",
+                "compressedSize": "16041",
+                "extension": "mesh",
+                "originalRAM": "32592",
+                "originalSize": "16041",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1721403774868740:124057"
+        }
+    },
+    "1721403774868740:124057": {
+        "IFileManager": {
+            "path": "Files/File_1721403774868740_124057.mesh"
+        }
+    },
+    "1721403774873437:124058": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Physics Resources/Models/Unit Sphere.mesh",
+                "hash": "b9e3f7898115085ebbb39400f580dbea"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1726140688814906:20298": {
+        "IResourceController": {
+            "name": "meshmixer-apple",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1726140688815177:20300",
+            "resources": [
+                "1726140688815879:20302"
+            ]
+        }
+    },
+    "1726140688815177:20300": {
+        "IResourceController": {
+            "public": {
+                "path": "meshmixer-apple"
+            }
+        }
+    }
+}

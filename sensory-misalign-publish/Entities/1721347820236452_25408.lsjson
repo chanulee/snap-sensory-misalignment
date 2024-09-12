@@ -1,0 +1,22 @@
+{
+    "1721347820236452:25408": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1721777452343862:251542",
+            "resources": [
+                "1721347820238223:25410"
+            ]
+        }
+    },
+    "1721777452343862:251542": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/apple_flesh01/Textures"
+            }
+        }
+    }
+}
